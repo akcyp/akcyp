@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/u/67923777" alt="akcyp avatar">
-</p>
+</p> -->
 
 ## 🎓 About me
 
