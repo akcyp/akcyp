@@ -24,6 +24,12 @@ I'm create open-source projects, and keep learning new things 🔥
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)](https://github.com/akcyp)
 [![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white)](https://github.com/akcyp)
 
+[![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)](https://github.com/akcyp)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)](https://github.com/akcyp)
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://github.com/akcyp)
+
+
 ## ⚙️ Tools
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/akcyp)
