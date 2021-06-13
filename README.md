@@ -14,13 +14,14 @@ I'm create open-source projects, and keep learning new things 🔥
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/akcyp)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/akcyp)\
-[![Node.js](https://img.shields.io/badge/-Node.Js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://github.com/akcyp)
+[![Node.js](https://img.shields.io/badge/-Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/akcyp)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)](https://github.com/akcyp)
-[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket-dot-io)](https://github.com/akcyp)\
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io)](https://github.com/akcyp)\
 [![React](https://img.shields.io/badge/-Jamstack-F0047F?style=for-the-badge&logo=jamstack)](https://github.com/akcyp)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/akcyp)
-[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)](https://github.com/akcyp)
-[![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white)](https://github.com/akcyp)\
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/akcyp)
+[![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://github.com/akcyp)
+[![Strapi](https://img.shields.io/badge/Strapi-1e1d80?style=for-the-badge&logo=strapi)](https://github.com/akcyp)\
 [![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)](https://github.com/akcyp)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)](https://github.com/akcyp)\
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://github.com/akcyp)
