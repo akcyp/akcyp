@@ -17,8 +17,10 @@ I'm create open-source projects, and keep learning new things 🔥
 [![Node.js](https://img.shields.io/badge/-Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/akcyp)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)](https://github.com/akcyp)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io)](https://github.com/akcyp)\
-[![React](https://img.shields.io/badge/-Jamstack-F0047F?style=for-the-badge&logo=jamstack)](https://github.com/akcyp)
+[![JamStack](https://img.shields.io/badge/-Jamstack-F0047F?style=for-the-badge&logo=jamstack)](https://github.com/akcyp)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/akcyp)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-674099?style=for-the-badge&logo=gatsby)](https://github.com/akcyp)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-171e26?style=for-the-badge&logo=graphql)][https://github.com/akcyp]
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/akcyp)
 [![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://github.com/akcyp)
 [![Strapi](https://img.shields.io/badge/Strapi-1e1d80?style=for-the-badge&logo=strapi)](https://github.com/akcyp)\
