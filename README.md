@@ -28,7 +28,7 @@ I'm create open-source projects, and keep learning new things 🔥
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)](https://github.com/akcyp)\
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://github.com/akcyp)\
 [![Netlify](https://img.shields.io/badge/-Netlify-f3f3f3?style=for-the-badge&logo=netlify)](https://github.com/akcyp)
-[![Heroku](https://img.shields.io/badge/-Heroku-fff?style=for-the-badge&logo=heroku&logoColor=241b4c)](https://github.com/akcyp)\
+[![Heroku](https://img.shields.io/badge/-Heroku-fff?style=for-the-badge&logo=heroku&logoColor=241b4c)](https://github.com/akcyp)
 
 ## ⚙️ Tools
 
