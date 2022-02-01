@@ -31,7 +31,7 @@ I'm create open-source projects, and keep learning new things 🔥
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/akcyp)\
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=black)](https://github.com/akcyp)\
 [![Netlify](https://img.shields.io/badge/-Netlify-f3f3f3?style=for-the-badge&logo=netlify)](https://github.com/akcyp)
-[![Heroku](https://img.shields.io/badge/-Heroku-fff?style=for-the-badge&logo=heroku&logoColor=241b4c)](https://github.com/akcyp)\
+[![Heroku](https://img.shields.io/badge/-Heroku-fff?style=for-the-badge&logo=heroku&logoColor=241b4c)](https://github.com/akcyp)
 
 ## ⚙️ Tools
 
@@ -41,4 +41,4 @@ I'm create open-source projects, and keep learning new things 🔥
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)](https://github.com/akcyp)\
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal)](https://github.com/akcyp)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code)](https://github.com/akcyp)\
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/akcyp)\
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/akcyp)
