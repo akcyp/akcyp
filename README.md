@@ -47,20 +47,20 @@ I'm create open-source projects, and keep learning new things 🔥
 
 - ### 🗺 React lasso / free select:
   - React component inspired by GIMP free select tool
-    - Repo: [https://github.com/akcyp/react-lasso-select](https://github.com/akcyp/react-lasso-select)
-    - Strapi plugin: [https://github.com/akcyp/strapi-plugin-point-list](https://github.com/akcyp/strapi-plugin-point-list)
-    - Example use: [https://github.com/akcyp/residential-area-website](https://github.com/akcyp/residential-area-website)
+    - Repo: [akcyp/react-lasso-select](https://github.com/akcyp/react-lasso-select)
+    - Strapi plugin: [akcyp/strapi-plugin-point-list](https://github.com/akcyp/strapi-plugin-point-list)
+    - Example use: [akcyp/residential-area-website](https://github.com/akcyp/residential-area-website)
 
 - ### 💪 Typescript Challenges
-  - [Extreme] Sum: [https://github.com/type-challenges/type-challenges/issues/3649](https://github.com/type-challenges/type-challenges/issues/3649)
-  - [Extreme] Integers Comparator: [https://github.com/type-challenges/type-challenges/issues/3601](https://github.com/type-challenges/type-challenges/issues/3601)
-  - [Extreme] Slice: [https://github.com/type-challenges/type-challenges/issues/3664](https://github.com/type-challenges/type-challenges/issues/3664)
-  - [Extreme] Currying 2: [https://github.com/type-challenges/type-challenges/issues/3712](https://github.com/type-challenges/type-challenges/issues/3712)
-  - [Extreme] Query String Parser: [https://github.com/type-challenges/type-challenges/issues/3674](https://github.com/type-challenges/type-challenges/issues/3674)
-  - [Extreme] Get Readonly Keys: [https://github.com/type-challenges/type-challenges/issues/3673](https://github.com/type-challenges/type-challenges/issues/3673)
-  - [Hard] Split: [https://github.com/type-challenges/type-challenges/issues/3066](https://github.com/type-challenges/type-challenges/issues/3066)
-  - [Hard] String Join: [https://github.com/type-challenges/type-challenges/issues/3065](https://github.com/type-challenges/type-challenges/issues/3065)
+  - <span style="color: #b11b8d">[Extreme]</span> Sum: [https://github.com/type-challenges/type-challenges/issues/3649](https://github.com/type-challenges/type-challenges/issues/3649)
+  - <span style="color: #b11b8d">[Extreme]</span> Integers Comparator: [https://github.com/type-challenges/type-challenges/issues/3601](https://github.com/type-challenges/type-challenges/issues/3601)
+  - <span style="color: #b11b8d">[Extreme]</span> Slice: [https://github.com/type-challenges/type-challenges/issues/3664](https://github.com/type-challenges/type-challenges/issues/3664)
+  - <span style="color: #b11b8d">[Extreme]</span> Currying 2: [https://github.com/type-challenges/type-challenges/issues/3712](https://github.com/type-challenges/type-challenges/issues/3712)
+  - <span style="color: #b11b8d">[Extreme]</span> Query String Parser: [https://github.com/type-challenges/type-challenges/issues/3674](https://github.com/type-challenges/type-challenges/issues/3674)
+  - <span style="color: #b11b8d">[Extreme]</span> Get Readonly Keys: [https://github.com/type-challenges/type-challenges/issues/3673](https://github.com/type-challenges/type-challenges/issues/3673)
+  - <span style="color: #de3d37">[Hard]</span> Split: [https://github.com/type-challenges/type-challenges/issues/3066](https://github.com/type-challenges/type-challenges/issues/3066)
+  - <span style="color: #de3d37">[Hard]</span> String Join: [https://github.com/type-challenges/type-challenges/issues/3065](https://github.com/type-challenges/type-challenges/issues/3065)
 - ### 🕹️ Games
-  - [TS] Snake CLI: [https://github.com/akcyp/snake-cli](https://github.com/akcyp/snake-cli)
-  - [TS] Chess Engine: [https://github.com/akcyp/chess-engine](https://github.com/akcyp/chess-engine)
-  - [JS] Arcade game clone: [https://github.com/akcyp/html5-kurve-game](https://github.com/akcyp/html5-kurve-game)
+  - <span style="color: #3178C6">[TS]</span> Snake CLI: [akcyp/snake-cli](https://github.com/akcyp/snake-cli)
+  - <span style="color: #3178C6">[TS]</span> Chess Engine: [akcyp/chess-engine](https://github.com/akcyp/chess-engine)
+  - <span style="color: #F7DF1E">[JS]</span> Arcade game clone: [akcyp/html5-kurve-game](https://github.com/akcyp/html5-kurve-game)
