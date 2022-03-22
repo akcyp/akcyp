@@ -42,3 +42,25 @@ I'm create open-source projects, and keep learning new things 🔥
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal)](https://github.com/akcyp)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code)](https://github.com/akcyp)\
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/akcyp)
+
+## 👨‍💻 Open-Source Projects
+
+- ### 🗺 React lasso / free select:
+  - React component inspired by GIMP free select tool
+    - Repo: [https://github.com/akcyp/react-lasso-select](https://github.com/akcyp/react-lasso-select)
+    - Strapi plugin: [https://github.com/akcyp/strapi-plugin-point-list](https://github.com/akcyp/strapi-plugin-point-list)
+    - Example use: [https://github.com/akcyp/residential-area-website](https://github.com/akcyp/residential-area-website)
+
+- ### 💪 Typescript Challenges
+  - [Extreme] Sum: [https://github.com/type-challenges/type-challenges/issues/3649](https://github.com/type-challenges/type-challenges/issues/3649)
+  - [Extreme] Integers Comparator: [https://github.com/type-challenges/type-challenges/issues/3601](https://github.com/type-challenges/type-challenges/issues/3601)
+  - [Extreme] Slice: [https://github.com/type-challenges/type-challenges/issues/3664](https://github.com/type-challenges/type-challenges/issues/3664)
+  - [Extreme] Currying 2: [https://github.com/type-challenges/type-challenges/issues/3712](https://github.com/type-challenges/type-challenges/issues/3712)
+  - [Extreme] Query String Parser: [https://github.com/type-challenges/type-challenges/issues/3674](https://github.com/type-challenges/type-challenges/issues/3674)
+  - [Extreme] Get Readonly Keys: [https://github.com/type-challenges/type-challenges/issues/3673](https://github.com/type-challenges/type-challenges/issues/3673)
+  - [Hard] Split: [https://github.com/type-challenges/type-challenges/issues/3066](https://github.com/type-challenges/type-challenges/issues/3066)
+  - [Hard] String Join: [https://github.com/type-challenges/type-challenges/issues/3065](https://github.com/type-challenges/type-challenges/issues/3065)
+- ### 🕹️ Games
+  - [TS] Snake CLI: [https://github.com/akcyp/snake-cli](https://github.com/akcyp/snake-cli)
+  - [TS] Chess Engine: [https://github.com/akcyp/chess-engine](https://github.com/akcyp/chess-engine)
+  - [JS] Arcade game clone: [https://github.com/akcyp/html5-kurve-game](https://github.com/akcyp/html5-kurve-game)
