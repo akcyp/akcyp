@@ -4,9 +4,6 @@
 
 ## 🎓 About me
 
-Hi, I'm Bartek - 21-year-old student, webdev enthusiast.
-I'm create open-source projects, and keep learning new things 🔥
-
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github)](https://github.com/akcyp)
 [![Npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~akcyp)
 
