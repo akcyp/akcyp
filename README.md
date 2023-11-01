@@ -59,6 +59,8 @@
   - <font color="#de3d37">[Hard]</font> Split: [https://github.com/type-challenges/type-challenges/issues/3066](https://github.com/type-challenges/type-challenges/issues/3066)
   - <font color="#de3d37">[Hard]</font> String Join: [https://github.com/type-challenges/type-challenges/issues/3065](https://github.com/type-challenges/type-challenges/issues/3065)
 - ### 🕹️ Games
+  - <font color="#3178C6">[React + TS / Deno]</font> Online real-time chess platform: [akcyp/chess-online](https://github.com/akcyp/chess-online)
+  - <font color="#3178C6">[React + Python]</font> Online real-time chess platform: [akcyp/chess-online/tree/python-backend](https://github.com/akcyp/chess-online/tree/python-backend)
   - <font color="#3178C6">[TS]</font> Snake CLI: [akcyp/snake-cli](https://github.com/akcyp/snake-cli)
   - <font color="#3178C6">[TS]</font> Chess Engine: [akcyp/chess-engine](https://github.com/akcyp/chess-engine)
   - <font color="#F7DF1E">[JS]</font> Arcade game clone: [akcyp/html5-kurve-game](https://github.com/akcyp/html5-kurve-game)
